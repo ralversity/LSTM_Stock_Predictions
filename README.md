@@ -5,10 +5,12 @@ the close prices in the last 5 years. It also generates its predicted price for 
 the program is run.
 
 # Installation and run guide
-Prerequisites:
+## Prerequisites
 	Install the latest version of Anaconda
 	Python 3.10 with the following libraries: NumPy, Pandas, Pandas_datareader, 
-  Sklearn, Tensorflow, Keras, Matplotlib, and default Python libraries.
+  	Sklearn, Tensorflow, Keras, Matplotlib, and default Python libraries.
+	
+## Steps to run
     1. Install the prerequisite Applications and Libraries
         a. To install libraries open cmd and type: pip install library_name
             i. Examples
