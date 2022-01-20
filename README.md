@@ -1,4 +1,4 @@
-# LSTM_Stock_Predictions
+# lstm-stock-predictions
 This program is a Jupyter Notebook script that takes a user input for a stock symbol
 (ex: AAPL - Apple, TSLA - Tesla) and generates an LSTM Neural Network prediction based on
 the close prices in the last 5 years. It also generates its predicted price for the day after
